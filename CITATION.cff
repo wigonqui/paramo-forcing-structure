@@ -15,7 +15,7 @@ authors:
     given-names: "Santiago"
     affiliation: "Universidad Regional Amazónica Ikiam, Tena, Ecuador"
     orcid: "https://orcid.org/0000-0002-4465-0860"
-repository-code: "https://github.com/<user>/paramo-forcing-structure"
+repository-code: "https://github.com/wigonqui/paramo-forcing-structure"
 keywords:
   - páramo
   - hourly streamflow
