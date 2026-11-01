@@ -1,0 +1,5 @@
+series,centre_offset_min,shape_r,current_label,advice
+era5land__radiation__C01,15,0.9949,end,correct
+era5land__radiation__P39,15,0.9931,end,correct
+era5land__radiation__P40,15,0.9942,end,correct
+obs__radiation__C01,-5,0.994,start,correct

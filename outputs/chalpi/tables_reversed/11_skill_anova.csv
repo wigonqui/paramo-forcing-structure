@@ -1,0 +1,10 @@
+catchment,period,component,fraction,ci_low,ci_high,structures,n_scenarios
+H13,calibration,forcing,0.2325,0.1361,0.3519,GR4H+LSTM+GBM+GR4H_GBM,9
+H13,calibration,structure,0.4696,0.3187,0.5798,GR4H+LSTM+GBM+GR4H_GBM,9
+H13,calibration,interaction,0.2979,0.1739,0.4571,GR4H+LSTM+GBM+GR4H_GBM,9
+H13,validation,forcing,0.7628,0.5438,0.8882,GR4H+LSTM+GBM+GR4H_GBM,9
+H13,validation,structure,0.147,0.0333,0.3234,GR4H+LSTM+GBM+GR4H_GBM,9
+H13,validation,interaction,0.0902,0.0532,0.1807,GR4H+LSTM+GBM+GR4H_GBM,9
+H42,transfer,forcing,0.6394,0.4508,0.8208,GR4H+LSTM+GBM+GR4H_GBM,9
+H42,transfer,structure,0.2681,0.1144,0.4146,GR4H+LSTM+GBM+GR4H_GBM,9
+H42,transfer,interaction,0.0926,0.0479,0.1685,GR4H+LSTM+GBM+GR4H_GBM,9

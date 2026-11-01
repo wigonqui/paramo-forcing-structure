@@ -1,0 +1,11 @@
+finding,direct,reversed,holds
+Forcing explains more variance than structure (validation),True,True,True
+Forcing explains more variance than structure (transfer),True,True,True
+Gauges are the best forcing (GR4H),True,True,True
+Best satellite forcing (GR4H),fusion_corr,fusion_corr,True
+Corrected beats raw for all products (GR4H),True,True,True
+No structure significantly better than GR4H with gauges,True,True,True
+"Learning models better than GR4H with raw products (share, CI > 0)",1.0,1.0,True
+ML correction better than QM with GR4H (share of products),0.75,0.25,False
+"ML better than QM for the fusion (GR4H, CI > 0)",True,True,True
+Calibration-to-validation loss larger for learning models,True,True,True

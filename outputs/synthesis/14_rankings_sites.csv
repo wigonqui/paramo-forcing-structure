@@ -1,0 +1,9 @@
+experiment,period,ranking,sites,n,spearman,p,best_chalpi,best_tambo
+direct,transfer,forcings,chalpi–tambo,9,0.8667,0.0025,gauge,gauge
+direct,transfer,structures,chalpi–tambo,4,0.2,0.8,LSTM,GR4H
+direct,validation,forcings,chalpi–tambo,9,0.8667,0.0025,gauge,gauge
+direct,validation,structures,chalpi–tambo,4,1.0,0.0,LSTM,LSTM
+reversed,transfer,forcings,chalpi–tambo,9,1.0,0.0,gauge,gauge
+reversed,transfer,structures,chalpi–tambo,4,-0.8,0.2,LSTM,GR4H
+reversed,validation,forcings,chalpi–tambo,9,0.6667,0.0499,gauge,gauge
+reversed,validation,structures,chalpi–tambo,4,0.8,0.2,LSTM,LSTM

@@ -1,0 +1,10 @@
+catchment,period,component,direct,reversed,structures
+H13,calibration,forcing,0.6494,0.2325,GR4H+LSTM+GBM+GR4H_GBM
+H13,calibration,structure,0.1764,0.4696,GR4H+LSTM+GBM+GR4H_GBM
+H13,calibration,interaction,0.1742,0.2979,GR4H+LSTM+GBM+GR4H_GBM
+H13,validation,forcing,0.306,0.7628,GR4H+LSTM+GBM+GR4H_GBM
+H13,validation,structure,0.4846,0.1471,GR4H+LSTM+GBM+GR4H_GBM
+H13,validation,interaction,0.2093,0.0902,GR4H+LSTM+GBM+GR4H_GBM
+H42,transfer,forcing,0.8139,0.6394,GR4H+LSTM+GBM+GR4H_GBM
+H42,transfer,structure,0.0447,0.268,GR4H+LSTM+GBM+GR4H_GBM
+H42,transfer,interaction,0.1414,0.0926,GR4H+LSTM+GBM+GR4H_GBM

@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the article."
+title: "Forcing or structure? Hourly streamflow modeling in two data-scarce Andean páramo catchments – processing and modeling pipeline"
+type: software
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+authors:
+  - family-names: "González Quilachamin"
+    given-names: "Wilson"
+    affiliation: "Universidad Regional Amazónica Ikiam, Tena, Ecuador"
+    email: "wilson.gonzalez@est.ikiam.edu.ec"
+    orcid: "https://orcid.org/0009-0008-5582-0280"
+  - family-names: "Ochoa García"
+    given-names: "Santiago"
+    affiliation: "Universidad Regional Amazónica Ikiam, Tena, Ecuador"
+    orcid: "https://orcid.org/0000-0002-4465-0860"
+repository-code: "https://github.com/<user>/paramo-forcing-structure"
+keywords:
+  - páramo
+  - hourly streamflow
+  - satellite precipitation
+  - bias correction
+  - GR4H
+  - LSTM
+  - LightGBM
+  - split-sample test
+  - Andes
+preferred-citation:
+  type: article
+  title: "Forcing or structure? Hourly streamflow modeling in two data-scarce Andean páramo catchments"
+  authors:
+    - family-names: "González Quilachamin"
+      given-names: "Wilson"
+    - family-names: "Ochoa García"
+      given-names: "Santiago"
+  journal: "Hydrological Sciences Journal"
+  status: submitted
+  year: 2026

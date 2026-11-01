@@ -1,0 +1,7 @@
+catchment,period,component,median,p05,p95
+H20,validation,forcing,0.579,0.52,0.6444
+H20,validation,structure,0.1445,0.0867,0.2282
+H20,validation,interaction,0.2709,0.2367,0.3066
+H18,transfer,forcing,0.7063,0.6358,0.7479
+H18,transfer,structure,0.088,0.0378,0.1935
+H18,transfer,interaction,0.1995,0.1576,0.2409

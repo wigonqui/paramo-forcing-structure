@@ -1,0 +1,27 @@
+# Python / R
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data: third-party station records and large intermediate files are not versioned (see DATA.md)
+data/
+
+# Run logs and run records (contain local paths)
+outputs/logs/
+outputs/.runs/
+
+# Credentials and local settings
+.env
+*.json.key
+credentials*.json
+.config/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

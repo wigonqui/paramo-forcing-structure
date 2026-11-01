@@ -1,0 +1,13 @@
+catchment,period,subset,scenarios,component,fraction,ci_low,ci_high
+H20,validation,all,gauge+imerg_raw+imerg_corr+gsmap_raw+gsmap_corr+era5land_raw+era5land_corr+fusion_raw+fusion_corr,forcing,0.6789,0.4686,0.7476
+H20,validation,all,gauge+imerg_raw+imerg_corr+gsmap_raw+gsmap_corr+era5land_raw+era5land_corr+fusion_raw+fusion_corr,structure,0.171,0.1001,0.2742
+H20,validation,all,gauge+imerg_raw+imerg_corr+gsmap_raw+gsmap_corr+era5land_raw+era5land_corr+fusion_raw+fusion_corr,interaction,0.1501,0.1157,0.3117
+H20,validation,without_raw,gauge+imerg_corr+gsmap_corr+era5land_corr+fusion_corr,forcing,0.9046,0.6486,0.9256
+H20,validation,without_raw,gauge+imerg_corr+gsmap_corr+era5land_corr+fusion_corr,structure,0.0257,0.0047,0.1285
+H20,validation,without_raw,gauge+imerg_corr+gsmap_corr+era5land_corr+fusion_corr,interaction,0.0698,0.0502,0.2472
+H18,transfer,all,gauge+imerg_raw+imerg_corr+gsmap_raw+gsmap_corr+era5land_raw+era5land_corr+fusion_raw+fusion_corr,forcing,0.8539,0.7192,0.8858
+H18,transfer,all,gauge+imerg_raw+imerg_corr+gsmap_raw+gsmap_corr+era5land_raw+era5land_corr+fusion_raw+fusion_corr,structure,0.0601,0.0168,0.2
+H18,transfer,all,gauge+imerg_raw+imerg_corr+gsmap_raw+gsmap_corr+era5land_raw+era5land_corr+fusion_raw+fusion_corr,interaction,0.086,0.0537,0.1595
+H18,transfer,without_raw,gauge+imerg_corr+gsmap_corr+era5land_corr+fusion_corr,forcing,0.8053,0.6194,0.8886
+H18,transfer,without_raw,gauge+imerg_corr+gsmap_corr+era5land_corr+fusion_corr,structure,0.1299,0.0364,0.2953
+H18,transfer,without_raw,gauge+imerg_corr+gsmap_corr+era5land_corr+fusion_corr,interaction,0.0649,0.0396,0.128

@@ -1,0 +1,16 @@
+code,variable,hours,ok,suspect,error,missing,reasons
+H13,discharge,131472,107726,0,2796,20950,documented_fault=2794; low_completeness=2
+H42,discharge,74784,59571,0,3597,11616,documented_fault=3597
+H38,discharge,131472,36843,1,0,94628,isolated_spike=1
+H39,discharge,131472,31609,0,0,99863,
+C16,precipitation,184080,172698,0,0,11382,
+C16,temperature,184080,46642,0,225,137213,low_completeness=225
+C16,radiation,59136,54415,0,45,4676,low_completeness=45
+P46,precipitation,184080,109304,0,0,74776,
+P64,precipitation,184080,96360,0,0,87720,
+P74,precipitation,184080,34530,0,0,149550,
+P75,precipitation,184080,52713,0,0,131367,
+M5022,precipitation,184080,131373,0,0,52707,
+M5022,temperature,184080,134491,98,31,49460,step=99; low_completeness=20; out_of_range=11
+M5023,precipitation,184080,129500,9,0,54571,flat=9
+M5025,radiation,45648,41730,6,6,3906,low_completeness=6; flat=6

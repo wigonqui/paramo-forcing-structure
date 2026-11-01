@@ -1,0 +1,11 @@
+series,scale,n,start,end,pettitt_date,pettitt_p,snht_date,snht_T0,snht_crit95,snht_reject
+H18_discharge,annual,14,2005-12-31,2021-12-31,2016-12-31,0.6795,2008-12-31,2.12,6.53,False
+H18_discharge,monthly_anomaly,169,2004-12-31,2021-12-31,2011-01-31,0.009,2011-04-30,8.15,9.34,False
+H20_discharge,annual,5,2010-12-31,2014-12-31,,,,,,False
+H20_discharge,monthly_anomaly,77,2007-01-31,2015-07-31,2010-07-31,0.0219,2015-06-30,12.3,8.67,True
+C01_precipitation,annual,11,2007-12-31,2022-12-31,2009-12-31,0.5243,2010-12-31,5.79,5.96,False
+C01_precipitation,monthly_anomaly,173,2003-08-31,2025-07-31,2010-07-31,0.025,2025-03-31,15.33,9.55,True
+P39_precipitation,annual,16,2005-12-31,2024-12-31,2007-12-31,0.5317,2007-12-31,3.94,6.83,False
+P39_precipitation,monthly_anomaly,221,2003-12-31,2025-12-31,2010-07-31,0.0054,2010-08-31,15.04,9.71,True
+P40_precipitation,annual,15,2004-12-31,2024-12-31,2011-12-31,1.0,2024-12-31,1.25,6.68,False
+P40_precipitation,monthly_anomaly,175,2004-04-30,2025-12-31,2018-03-31,0.3321,2018-04-30,5.24,9.8,False

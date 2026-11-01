@@ -1,0 +1,10 @@
+series,centre_offset_min,shape_r,current_label,advice
+era5land__radiation__C16,10,0.9959,end,correct
+era5land__radiation__M5022,10,0.9959,end,correct
+era5land__radiation__M5025,15,0.9946,end,correct
+era5land__radiation__P46,10,0.996,end,correct
+era5land__radiation__P64,10,0.9959,end,correct
+era5land__radiation__P74,15,0.9946,end,correct
+era5land__radiation__P75,10,0.9957,end,correct
+obs__radiation__C16,0,0.9983,start,correct
+obs__radiation__M5025,5,0.9964,start,correct

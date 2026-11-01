@@ -1,0 +1,7 @@
+catchment,period,block_h,median_ci_width,forcing_ci,structure_ci,p_fusion_corr_better_than_gauge_GR4H,p_GR4H_GBM_better_than_GR4H_gauge
+H20,validation,360,0.1613,"[0.45, 0.68]","[0.09, 0.27]",0.0,0.254
+H20,validation,720,0.1636,"[0.44, 0.68]","[0.08, 0.27]",0.0,0.2
+H20,validation,1440,0.172,"[0.44, 0.68]","[0.07, 0.28]",0.0,0.206
+H18,transfer,360,0.2066,"[0.58, 0.79]","[0.00, 0.26]",0.004,0.0
+H18,transfer,720,0.2411,"[0.51, 0.80]","[0.00, 0.33]",0.014,0.002
+H18,transfer,1440,0.284,"[0.44, 0.80]","[0.00, 0.44]",0.014,0.0

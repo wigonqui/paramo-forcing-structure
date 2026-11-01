@@ -1,0 +1,10 @@
+code,variable,hours,ok,suspect,error,missing,reasons
+H18,discharge,153528,130875,61,0,22592,flat=61
+H18,stage,153528,130875,61,0,22592,flat=61
+H20,discharge,75360,63188,4,76,12092,low_completeness=76; isolated_spike=4
+H20,stage,75360,63192,0,76,12092,low_completeness=76
+C01,precipitation,196920,141301,10,0,55609,flat=9; extreme=1
+C01,temperature,135720,80665,10,15,55030,low_completeness=15; flat=6; step=4
+C01,radiation,33888,31012,0,4,2872,low_completeness=4
+P39,precipitation,194184,166114,6,0,28064,flat=6
+P40,precipitation,191184,145008,0,0,46176,

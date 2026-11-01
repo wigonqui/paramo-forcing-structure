@@ -1,0 +1,16 @@
+catchment,period,ranking,within,spearman,p
+H20,calibration,scenarios,GR4H,0.8833,0.0016
+H20,calibration,scenarios,LSTM,0.9,0.0009
+H20,calibration,scenarios,GBM,0.8833,0.0016
+H20,calibration,scenarios,GR4H_GBM,0.5607,0.1163
+H20,calibration,structures,mean over scenarios,0.8,0.2
+H20,validation,scenarios,GR4H,0.9333,0.0002
+H20,validation,scenarios,LSTM,0.4,0.2861
+H20,validation,scenarios,GBM,0.6167,0.0769
+H20,validation,scenarios,GR4H_GBM,0.8,0.0096
+H20,validation,structures,mean over scenarios,1.0,0.0
+H18,transfer,scenarios,GR4H,0.9333,0.0002
+H18,transfer,scenarios,LSTM,0.6833,0.0424
+H18,transfer,scenarios,GBM,0.8333,0.0053
+H18,transfer,scenarios,GR4H_GBM,0.95,0.0001
+H18,transfer,structures,mean over scenarios,1.0,0.0

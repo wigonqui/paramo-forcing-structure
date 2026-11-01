@@ -1,0 +1,4 @@
+period,days,pearson_daily,spearman_daily,ratio_down_up,lag_h_max_corr
+all,2196,0.489,0.514,4.75,0
+Jun-Aug,565,0.582,0.449,5.51,0
+Nov-Feb,776,0.374,0.524,4.12,0

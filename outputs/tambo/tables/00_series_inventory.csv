@@ -1,0 +1,10 @@
+code,variable,file,start,end,hours,valid_pct,duplicates
+H18,discharge,H18-Tambo_2A_Caudal-Horario.csv,2004-11-18,2022-05-24 23:00:00,153528,85.3,0
+H18,stage,H18-Tambo_2A_Nivel_de_agua-Horario.csv,2004-11-18,2022-05-24 23:00:00,153528,85.3,0
+H20,discharge,H20-Tambo_12_Caudal-Horario.csv,2007-01-01,2015-08-06 23:00:00,75360,84.0,0
+H20,stage,H20-Tambo_12_Nivel_de_agua-Horario.csv,2007-01-01,2015-08-06 23:00:00,75360,84.0,0
+C01,precipitation,C01-Maucatambo_Precipitaci#U00f3n-Horario.csv,2003-07-16,2025-12-31 23:00:00,196920,71.8,0
+C01,temperature,C01-Maucatambo_Temperatura_ambiente-Horario.csv,2007-02-14,2022-08-08 23:00:00,135720,59.5,0
+C01,radiation,C01-Maucatambo_Radiaci#U00f3n_solar-Horario.csv,2020-02-19,2023-12-31 23:00:00,33888,91.5,0
+P39,precipitation,P39-Yangahuagra_Precipitaci#U00f3n-Horario.csv,2003-11-07,2025-12-31 23:00:00,194184,85.5,0
+P40,precipitation,P40-Tambo_2a_Precipitaci#U00f3n-Horario.csv,2004-03-11,2025-12-31 23:00:00,191184,75.8,0
