@@ -4,7 +4,7 @@
   "description": "<p>Python and R pipeline (stages 00–14) that builds nine precipitation forcings (rain gauges and raw and machine-learning-corrected IMERG, GSMaP, ERA5-Land and their fusion), runs four model structures (GR4H, LSTM, LightGBM and a GR4H error model) in two nested páramo catchments of the Ecuadorian Andes (Tambo and Chalpi Grande), and partitions out-of-sample hourly KGE′ differences between forcing and structure with a two-way ANOVA, block bootstrap and a reversed split-sample test. Includes the configuration, the result tables and figures of the article and the supplementary material. Station records of EPMAPS/FONAG are not redistributed; see DATA.md.</p>",
   "creators": [
     {"name": "González Quilachamin, Wilson", "affiliation": "Universidad Regional Amazónica Ikiam", "orcid": "0009-0008-5582-0280"},
-    {"name": "Ochoa García, Santiago", "affiliation": "Universidad Regional Amazónica Ikiam", "orcid": "0000-0002-4465-0860"}
+    {"name": "Ochoa García, Santiago", "affiliation": "Universidad Regional Amazónica Ikiam", "orcid": "0000-0001-9695-5976"}
   ],
   "license": "MIT",
   "access_right": "open",
